@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/neuronic-system/.github/assets/84900433/b77eaf68-d5cf-4b08-a666-36b64b37e3d1" width="250" height="250" />
+  <img src="https://github.com/neuronic-system/.github/assets/84900433/0eb0d3d4-368f-4782-beed-499e80ad3421" width="250" height="250"/>
 </p>
 
 # Neuronic System Pvt Ltd - Connecting intelligence to the world
